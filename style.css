@@ -1,0 +1,22 @@
+
+body{
+    background-image: url(img/backgrund.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25%;
+    gap: 3%;
+}
+
+button{
+    background-color: #cccccc;
+    border: none;
+    color: darkblue;
+    padding: 3% 2%;
+}
